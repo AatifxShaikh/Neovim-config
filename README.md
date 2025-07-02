@@ -1,1 +1,1 @@
-Neovim and tmux config backup
+This repo is for Neovim and tmux config backup.
