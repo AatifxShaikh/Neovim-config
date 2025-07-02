@@ -22,6 +22,7 @@ return {
         'css',
         'go',
         'http',
+        'java',
       },
       auto_install = true,
       highlight = {
